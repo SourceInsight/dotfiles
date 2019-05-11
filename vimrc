@@ -36,7 +36,7 @@ set tm=500
 
 
 " show location
-set cursorcolumn
+" set cursorcolumn "显示竖线
 set cursorline
 
 
